@@ -1,0 +1,1 @@
+chmod a+x device/samsung/m14x/mkbootimg
