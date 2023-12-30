@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/m14x/recove
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_m14x
 PRODUCT_DEVICE := m14x
-PRODUCT_MODEL := SM-A146B
+PRODUCT_MODEL := SM-M146B
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
